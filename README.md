@@ -1,3 +1,8 @@
+## Film arama yapıldıktan sonra film ismine tıklanarak detaya gidilebilir.
+## Detayda bulunan favoriye ekle butonu ile favoriye eklenebilir.
+## Film aramada yıl için arama yapılacaksa film ismi de yazılmalıdır.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
