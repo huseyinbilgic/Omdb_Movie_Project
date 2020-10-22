@@ -1,0 +1,3 @@
+export const SET_MOVIES="SET_MOVIES"
+export const SET_MOVIES_INFO="SET_MOVIES_INFO"
+export const ADD_FAVORITES="ADD_FAVORITES"

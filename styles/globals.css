@@ -1,0 +1,77 @@
+
+.welcome {
+  background-image: url("../public/images/sarib.png");
+
+}
+.entermovienavi{
+  border: none;background: #F3F3F3;
+}
+.ibutton{
+  border: none;background-color: transparent;
+}
+.welcome-text {
+
+  font-weight: 500;
+  font-size: 65px;
+
+}
+
+.welcome-div {
+
+  font-family: Poppins;
+  font-style: normal;
+  color: #FFFFFF;
+  padding-top: 127px;
+
+}
+
+.welcome-subtext {
+  width: 70%;
+  font-size: 16px;
+}
+
+.routes-link {
+  padding-left: 85px;
+}
+
+.searchForm {
+  width: fit-content;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+
+}
+
+.entermovie {
+
+  background: #F3F3F3;
+  border-radius: 8px;
+}
+
+.info {
+  margin-top: 150px;
+  margin-bottom: 80px;
+}
+
+.popularmovies {
+  font-family: Poppins;
+  font-style: normal;
+
+  font-size: 35px;
+
+  color: #000000;
+  float: left;
+}
+
+.viewmore {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+
+  /* identical to box height */
+  text-align: right;
+
+  color: #F5C518;
+}
